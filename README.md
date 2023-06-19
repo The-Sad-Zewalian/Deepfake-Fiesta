@@ -46,7 +46,7 @@ Here are the results
 [Main Code](https://colab.research.google.com/drive/1IQeCgeo0eQXN7zN-G1Tind6hJBMdtqW_?usp=sharing)
 
 ## Requirements
-The project require Python 3.5 or later and the following libraries:
+The project requires Python 3.5 or later and the following libraries:
 
 - NumPy
 - Tensorflow
