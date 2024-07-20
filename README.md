@@ -42,9 +42,6 @@ Here are the results
 
 ![Sample Image 1](photos/results.png)
 
-## Google Colab Links
-[Main Code](https://colab.research.google.com/drive/1IQeCgeo0eQXN7zN-G1Tind6hJBMdtqW_?usp=sharing)
-
 ## Requirements
 The project requires Python 3.5 or later and the following libraries:
 
